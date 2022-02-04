@@ -1,0 +1,7 @@
+logs/log.html
+logs/output.html
+logs/report.html
+
+.env
+configSpecs.INI
+runSpecs.sh
