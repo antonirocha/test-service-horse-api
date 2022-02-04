@@ -18,5 +18,5 @@ TAG_URL=
 VIRTUAL_URL=
 
 
-# Others Services API
+# Others API
 URL_API=
