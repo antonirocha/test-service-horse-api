@@ -1,7 +1,21 @@
+#Logs are generated automatically with robot execution
 logs/log.html
-logs/output.html
+logs/output.xml
 logs/report.html
 
+#Buld Files Python
+resources/factories/*__pycache__
+resources/factories/*.pyc
+__pycache__/
+*.pyc
+**/__pycache__
+**/*.pyc
+__pycache__/
+ *.pyc
+
+#Environment variables and parameters
 .env
 configSpecs.INI
 runSpecs.sh
+
+
