@@ -1,12 +1,10 @@
 
-from ast import Store
 import datetime
 from time import strftime
+import time
 import pymysql.cursors
 from datetime import datetime, timezone
-import os
-import dotenv
-import time
+import os, dotenv
 from configparser import ConfigParser
 
 dotenv.load_dotenv(dotenv.find_dotenv())

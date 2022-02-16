@@ -6,8 +6,6 @@ logs/report.html
 #Buld Files Python
 resources/factories/*__pycache__
 resources/factories/*.pyc
-__pycache__/
-*.pyc
 **/__pycache__
 **/*.pyc
 __pycache__/
